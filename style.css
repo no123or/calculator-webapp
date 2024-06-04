@@ -1,0 +1,35 @@
+body{
+    background-color: cadetblue;
+}
+form{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: hotpink;
+    color: white;
+    justify-content: space-around;
+    margin-left: 300px;
+    margin-right: 100px;
+    margin-top: 50px;
+    width: 600px;
+    padding: 50px;
+    word-spacing: 8px;
+    border: 3px solid black;
+}
+
+h2{
+    color: black;
+    text-align: center;
+    font-size: xx-large;
+}
+#button{
+    background-color: orangered;
+    color: black;
+}
+#operation{
+    background-color: chartreuse;
+    color: black;
+}
+#result{
+    background-color: deepskyblue;
+    color: black;
+}
